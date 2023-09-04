@@ -1,6 +1,6 @@
 # Foo Resource Provider
 
-The Foo Resource Provider lets you manage [Foo](http://example.com) resources.
+The Foo Resource Provider lets you manage [Foo](http://netactuate.com) resources.
 
 ## Installing
 
@@ -33,7 +33,7 @@ pip install pulumi_foo
 To use from Go, use `go get` to grab the latest version of the library:
 
 ```bash
-go get github.com/pulumi/pulumi-foo/sdk/go/...
+go get github.com/fpinna/pulumi-netactuate/sdk/go/...
 ```
 
 ### .NET
